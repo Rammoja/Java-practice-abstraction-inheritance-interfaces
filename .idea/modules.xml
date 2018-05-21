@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaLabStero.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaLabStero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaLabStero_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaLabStero_main.iml" group="JavaLabStero" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaLabStero_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaLabStero_test.iml" group="JavaLabStero" />
+    </modules>
+  </component>
+</project>
